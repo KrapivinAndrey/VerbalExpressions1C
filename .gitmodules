@@ -1,0 +1,6 @@
+[submodule "vendor/vanessa-behavior"]
+	path = vendor/vanessa-behavior
+	url = https://github.com/silverbulleters/vanessa-behavior.git
+[submodule "vendor/xUnit"]
+	path = vendor/xUnit
+	url = https://github.com/xDrivenDevelopment/xUnitFor1C.git
