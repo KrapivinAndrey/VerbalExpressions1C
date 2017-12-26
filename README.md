@@ -1,4 +1,4 @@
-#Verbal Expressions
+# Verbal Expressions
 
 Модуль поддержки вербальных выражений для 1с
 
