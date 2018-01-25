@@ -1,0 +1,11 @@
+﻿7608da51-cd80-49b0-9b03-7bcb3d9e8c89-->und\7608da51-cd80-49b0-9b03-7bcb3d9e8c89
+7608da51-cd80-49b0-9b03-7bcb3d9e8c89.0-->Form\Форма
+8717d17a-34e4-4802-ac92-b5fe2e5c4f8f-->und\8717d17a-34e4-4802-ac92-b5fe2e5c4f8f
+8717d17a-34e4-4802-ac92-b5fe2e5c4f8f.0-->Form\ВербальныеВыражения82
+954287d4-51f5-47ce-adea-7b867108bf32-->und\954287d4-51f5-47ce-adea-7b867108bf32
+954287d4-51f5-47ce-adea-7b867108bf32.0-->und\954287d4-51f5-47ce-adea-7b867108bf32.0
+copyinfo-->und\copyinfo
+f2268e00-36fa-44ce-93d0-25ab53a5c8e1-->und\f2268e00-36fa-44ce-93d0-25ab53a5c8e1
+root-->und\root
+version-->und\version
+versions-->und\versions
